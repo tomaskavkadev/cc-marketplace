@@ -1,4 +1,4 @@
-# tomaskavkadev — Claude Code Plugin Marketplace
+# Claude Code Plugin Marketplace
 
 ## Usage
 
