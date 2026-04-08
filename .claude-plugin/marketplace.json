@@ -1,0 +1,33 @@
+{
+  "name": "tomaskavkadev",
+  "owner": {
+    "name": "Tomas Kavka"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by Tomas Kavka"
+  },
+  "plugins": [
+    {
+      "name": "acit",
+      "source": {
+        "source": "github",
+        "repo": "tomaskavkadev/acit"
+      },
+      "description": "Claude Code plugin for Autonomous Contributor — 68 skills across 25 domains, 53 specialized agents for end-to-end project orchestration with AI agents.",
+      "version": "0.0.1",
+      "category": "productivity",
+      "tags": ["orchestration", "product-development", "autonomous-contributor"]
+    },
+    {
+      "name": "acit-dev",
+      "source": {
+        "source": "github",
+        "repo": "tomaskavkadev/acit-dev"
+      },
+      "description": "Claude Code plugin for Autonomous Contributor (Development Edition) — 27 skills across 6 domains, 37 specialized agents for architecture, implementation, review, testing, deployment, and incident response.",
+      "version": "0.0.1",
+      "category": "productivity",
+      "tags": ["development", "code-review", "testing", "deployment", "autonomous-contributor"]
+    }
+  ]
+}
